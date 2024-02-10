@@ -10,7 +10,7 @@
 <img src="https://media.licdn.com/dms/image/C5612AQExc54GbLcDHA/article-cover_image-shrink_720_1280/0/1636407577966?e=1712793600&v=beta&t=EvvEptI0p8t1WGGp6xbJ7BxjJFuvtuXqrjwjIdI7ZaM" 
 align="right" width="450" />
 
-🔭 I’m currently working on Android Earn App <br><br>👯 I’m looking to collaborate on Mobile/Web Development<br><br>🤝 I’m looking for help with Software Products<br><br>🌱 I’m currently learning Next.js, AI/ML<br><br>💬 Ask me about Programming
+🔭  I’m currently working on Android Earn App <br><br>👯  I’m looking to collaborate on Mobile/Web Development<br><br>🤝  I’m looking for help with Software Products<br><br>🌱  I’m currently learning Next.js, AI/ML<br><br>💬  Ask me about Programming
 ## 🌐 Available on
 <a href="mailto:mirfan8868@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="70" height="20"></a> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/454648on) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-irfan-murtaza) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mirfan8868) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13065883) 
 <br><br>
