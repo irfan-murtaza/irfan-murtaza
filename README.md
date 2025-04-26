@@ -7,9 +7,6 @@
 </div>
 <br>
 
-<img src="https://media.licdn.com/dms/image/C5612AQExc54GbLcDHA/article-cover_image-shrink_720_1280/0/1636407577966?e=1712793600&v=beta&t=EvvEptI0p8t1WGGp6xbJ7BxjJFuvtuXqrjwjIdI7ZaM" 
-align="right" width="450" />
-
 🔭  I’m currently working and diving deeper on Python-based AI and Data Engineering Projects<br><br>👯  I’m looking to collaborate on Backend Systems, AI/ML, and Generative AI<br><br>🤝  I’m open to discussions on Software Product Development and AI Solutions<br><br>💬  Ask me about Python, Django, Flask, Data Engineering, or Machine Learning
 
 
