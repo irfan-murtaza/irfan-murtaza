@@ -15,7 +15,7 @@ At **Turing**, I build LLM-powered apps, agentic workflows and support chatbots 
 
 At **Devsinc**, I owned backend architecture for a consumer rewards app serving 1M+ users (Rails, Node.js, PostgreSQL), shipped its OpenAI-powered features, cut slow endpoint response times by ~35%, and mentored 3 junior engineers. Promoted twice, from Associate to Senior.
 
-I'm open to remote **Senior AI Engineer**, **LLM Engineer** and **Applied AI** roles.
+I'm open to remote **Senior AI Engineer**, **LLM Engineer**, **Applied AI** and **Backend** roles.
 
 ## Tech stack
 
