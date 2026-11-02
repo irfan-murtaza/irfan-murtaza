@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Irfan 👋</h1>
+  <h1>Hi, I'm Irfan Murtaza 👋</h1>
   <p><strong>Senior AI Engineer · AI Agents, RAG & LLM Evals · Python, FastAPI, LangGraph, MCP</strong></p>
   <p>
     <a href="https://linkedin.com/in/irfanmurtaza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
